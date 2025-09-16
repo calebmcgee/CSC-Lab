@@ -2,8 +2,7 @@
 Name: Caleb McGee
 Instructor : Dr. B
 Lab Section: 63
-Description: User Input, Arithmetic Operations, 
-            String Manipulation + review
+Description: Review User Input, Basic String Manipulation, and Calculation
 Date : 9/16/25
  */
 
