@@ -32,7 +32,7 @@ public class McGeeC_Lab3 {
         */
         
         //Part B
-        /* 
+        
         double d1;
         double d2;
         double d3;
@@ -50,7 +50,7 @@ public class McGeeC_Lab3 {
         average = sum/3;
 
         System.out.printf("You entered these 3 numbers: %f, %f, and %f. \n Sum of these values is %f. \n Average of these values is %f.", d1,d2,d3,sum,average);
-        */
+        
         //Part C
         /*
         int dividend;
@@ -68,6 +68,7 @@ public class McGeeC_Lab3 {
         System.out.println("When " + dividend + " is divided by " + divisor + ", the quotient is " + quotient + " and the remainder is " + remainder + ".");
         */
         //Part D
+        /*
         double a;
         double b;
         double c;
@@ -83,5 +84,6 @@ public class McGeeC_Lab3 {
 
         mystery = (Math.sqrt(2*a + 13)/5) + ((6* Math.pow(b,5) - 9)/12);
         System.out.println("Mystery value is " + mystery);
+        */
     }
 }
